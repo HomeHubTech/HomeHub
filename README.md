@@ -1,1 +1,1 @@
-# HomeHub
+Summarizes content in Wiki.
