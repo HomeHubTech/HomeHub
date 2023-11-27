@@ -1,5 +1,5 @@
 # Overview
-Welcome to the official GitHub Wiki for HomeHub Tech! This wiki is a central repository detailing information for our products, process, and more!
+Welcome to the official GitHub Wiki for HomeHub Tech! This wiki is a central repository detailing information for our products, process, and more !
 
 # Purpose
 This Wiki is designed to:
