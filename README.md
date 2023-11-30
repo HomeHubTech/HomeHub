@@ -13,7 +13,7 @@ This Wiki is designed to:
 # Getting Started
 To get the most out of this Wiki:
 
-* Click on the Wiki link at the top or click [here](https://github.com/HomeHubTech/.github/wiki) !
+* Click on the Wiki link at the top or click [here](https://github.com/HomeHubTech/HomeHub/wiki) !
 * Contribute or provide feedback!
 
 # About HomeHub Tech
